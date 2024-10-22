@@ -1,4 +1,5 @@
 import React from "react";
+import './App.css';
 import Logo from "./components/Logo";
 import Navegacao from "./components/Navegacao";
 import Principal from "./components/Principal";
